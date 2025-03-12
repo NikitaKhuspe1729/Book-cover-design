@@ -9,3 +9,8 @@
 ![Power of simplicity](https://github.com/user-attachments/assets/284c27dc-ba80-4a32-83e2-b62ed769e272)
 # Mockup
 ![Book Cover](https://github.com/user-attachments/assets/cc5cc02a-1fa3-4065-8075-c5f4da3e8b9e)
+
+# The Adventures of Lenny
+![lenny](https://github.com/user-attachments/assets/31a2f1e3-1090-42ec-b1b4-e130a5c5fd2b)
+# Mockup
+![Book Cover (1)](https://github.com/user-attachments/assets/a132a79c-af29-4dc1-a357-3165b5a9a84d)
