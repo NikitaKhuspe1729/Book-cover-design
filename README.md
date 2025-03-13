@@ -14,3 +14,7 @@
 ![lenny](https://github.com/user-attachments/assets/31a2f1e3-1090-42ec-b1b4-e130a5c5fd2b)
 # Mockup
 ![Book Cover (1)](https://github.com/user-attachments/assets/a132a79c-af29-4dc1-a357-3165b5a9a84d)
+
+# The dark horizon
+![the dark horizon](https://github.com/user-attachments/assets/87feff5c-35e9-49ae-99f3-cc27ce526a88)
+![the dark horizon (1)](https://github.com/user-attachments/assets/42ace2ca-bd91-4eed-96f7-82471918391d)
